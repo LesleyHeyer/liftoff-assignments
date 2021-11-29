@@ -7,12 +7,12 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+This application will provide users with the opportunity to create and customize their own Yoga routine to improve overall physical and mental health with fitness.  This will provide them with the opportunity to use their routine that is guided through visual examples, audio cues, and demonstration as well as allow them to modify and save routines.
 ### Features
-Include Features here
+Key features include: drag and drop feature for managing routine building.  Audio files attatched to poses.  A Pose library to use to create routines.  Ability to modify/change routine.
 ### Technologies
-Include Technologies here
+React, React Material UI, Javascript, CSS, JSX
 ### What I'll Have to Learn
-Include what you will need to learn here
+How to use the drag and drop feature, how to use Material UI for creating UI for app, how to implement audio in application.
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/7goeSEx2/main-board
