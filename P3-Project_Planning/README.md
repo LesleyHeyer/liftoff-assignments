@@ -8,7 +8,9 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+https://github.com/LesleyHeyer/liftoff-assignments/blob/master/P3-Project_Planning/WF-1-CreateRoutine.PNG
+https://github.com/LesleyHeyer/liftoff-assignments/blob/master/P3-Project_Planning/WF-2-informationalModal.PNG
+https://github.com/LesleyHeyer/liftoff-assignments/blob/master/P3-Project_Planning/WF-3-playbackModal.PNG
 
 ### Project Tracker
 https://trello.com/b/7goeSEx2/main-board
